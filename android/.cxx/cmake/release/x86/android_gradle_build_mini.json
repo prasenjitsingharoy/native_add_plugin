@@ -1,0 +1,22 @@
+{
+  "buildFiles": [
+    "C:\\Users\\roadbounce\\native_add\\android\\CMakeLists.txt",
+    "C:\\Users\\roadbounce\\AppData\\Local\\Android\\Sdk\\ndk\\23.1.7779620\\build\\cmake\\android.toolchain.cmake",
+    "C:\\Users\\roadbounce\\AppData\\Local\\Android\\Sdk\\ndk\\23.1.7779620\\build\\cmake\\android-legacy.toolchain.cmake",
+    "C:\\Users\\roadbounce\\AppData\\Local\\Android\\Sdk\\ndk\\23.1.7779620\\build\\cmake\\platforms.cmake",
+    "C:\\Users\\roadbounce\\AppData\\Local\\Android\\Sdk\\ndk\\23.1.7779620\\build\\cmake\\compiler_id.cmake"
+  ],
+  "cleanCommands": [
+    "C:\\Users\\roadbounce\\AppData\\Local\\Android\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"C:\\Users\\roadbounce\\native_add\\android\\.cxx\\cmake\\release\\x86\" clean"
+  ],
+  "buildTargetsCommand": "C:\\Users\\roadbounce\\AppData\\Local\\Android\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe  -C \"C:\\Users\\roadbounce\\native_add\\android\\.cxx\\cmake\\release\\x86\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "native_add-Release-x86": {
+      "artifactName": "native_add",
+      "buildCommand": "C:\\Users\\roadbounce\\AppData\\Local\\Android\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"C:\\Users\\roadbounce\\native_add\\android\\.cxx\\cmake\\release\\x86\" native_add",
+      "abi": "x86",
+      "output": "C:\\Users\\roadbounce\\native_add\\example\\build\\native_add\\intermediates\\cmake\\release\\obj\\x86\\libnative_add.so",
+      "runtimeFiles": []
+    }
+  }
+}

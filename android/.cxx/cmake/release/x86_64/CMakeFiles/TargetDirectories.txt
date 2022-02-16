@@ -1,0 +1,3 @@
+C:/Users/roadbounce/native_add/android/.cxx/cmake/release/x86_64/CMakeFiles/native_add.dir
+C:/Users/roadbounce/native_add/android/.cxx/cmake/release/x86_64/CMakeFiles/edit_cache.dir
+C:/Users/roadbounce/native_add/android/.cxx/cmake/release/x86_64/CMakeFiles/rebuild_cache.dir

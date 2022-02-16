@@ -1,0 +1,11 @@
+# ninja log v5
+0	689	666523159	CMakeFiles/native_add.dir/C_/Users/roadbounce/native_add/ios/Classes/native_add.cpp.o	5672b77b421a5e63
+691	2997	666523162	C:/Users/roadbounce/native_add/example/build/native_add/intermediates/cmake/debug/obj/armeabi-v7a/libnative_add.so	d02032266dd55131
+3	3679	666546995	CMakeFiles/native_add.dir/C_/Users/roadbounce/native_add/ios/Classes/native_add.cpp.o	5672b77b421a5e63
+3680	7549	666546999	C:/Users/roadbounce/native_add/example/build/native_add/intermediates/cmake/debug/obj/armeabi-v7a/libnative_add.so	d02032266dd55131
+3	196	666547422	CMakeFiles/native_add.dir/C_/Users/roadbounce/native_add/ios/Classes/native_add.cpp.o	5672b77b421a5e63
+196	3228	666547425	C:/Users/roadbounce/native_add/example/build/native_add/intermediates/cmake/debug/obj/armeabi-v7a/libnative_add.so	d02032266dd55131
+88	1519	666636596	CMakeFiles/native_add.dir/C_/Users/roadbounce/native_add/ios/Classes/native_add.cpp.o	5672b77b421a5e63
+1520	5603	666636600	C:/Users/roadbounce/native_add/example/build/native_add/intermediates/cmake/debug/obj/armeabi-v7a/libnative_add.so	d02032266dd55131
+4	1476	666695428	CMakeFiles/native_add.dir/C_/Users/roadbounce/native_add/ios/Classes/native_add.cpp.o	5672b77b421a5e63
+1476	5708	666695432	C:/Users/roadbounce/native_add/example/build/native_add/intermediates/cmake/debug/obj/armeabi-v7a/libnative_add.so	d02032266dd55131
